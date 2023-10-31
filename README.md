@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ismail Tijani</h1>
-<h3 align="center">Software Engineer skilled in Typescript, Node.js, Express, React and Databases. Experienced with building secure, scalable REST APIs and implementing robust caching and database solutions to improve performance. Passionate about writing clean, well-tested code and continuously improving development workflows.</h3>
+<h1 align="center">Hi, I'm Ismail Tijani 👋👨‍💻</h1>
+<h4 align="center">Software Engineer skilled in Typescript, Node.js, Express, React and Databases. Experienced with building secure, scalable REST APIs and implementing robust caching and database solutions to improve performance. Passionate about writing clean, well-tested code and continuously improving development workflows.</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailtijani&label=Profile%20views&color=0e75b6&style=flat" alt="ismailtijani" /> </p>
 
 - 🔭 I’m currently working on [Tranos LMS](https://github.com/tranoslms)
 
