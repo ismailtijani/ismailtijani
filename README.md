@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Tranos LMS](https://github.com/tranoslms)
 
-- 🌱 I’m currently learning **React and GraphQL**
+- 🌱 I’m currently learning **React and Software Testing**
 
 - 💬 Ask me about **Typescript, Node Js, and Database optimisation**
 
