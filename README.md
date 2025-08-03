@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Tranos LMS](https://github.com/tranoslms)
 
-- 🌱 I’m currently learning **React and Software Testing**
+- 🌱 I’m currently learning **Java (Spring Boot)**
 
-- 💬 Ask me about **Typescript, Node Js, and Database optimisation**
+- 💬 Ask me about **Typescript, Node Js(Nest/Express), Java(Spring Boot) Database (SQL and NoSQL), Software security and Testing**
 
 - 📫 How to reach me **ismailtijani10@yahoo.com**
 
